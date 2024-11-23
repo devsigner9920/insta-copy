@@ -1,0 +1,1 @@
+/Users/devsigner/IdeaProjects/insta-copy/buildSrc/build/classes/kotlin/main/Dependencies.class:/Users/devsigner/IdeaProjects/insta-copy/buildSrc/build/classes/kotlin/main/Versions.class
