@@ -13,6 +13,7 @@ object Dependencies {
     const val SPRING_BOOT_AOP = "org.springframework.boot:spring-boot-starter-aop"
     const val SPRING_DEPENDENCY_MANAGEMENT = "io.spring.dependency-management"
     const val SPRING_BOOT_DATA_R2DBC = "org.springframework.boot:spring-boot-starter-data-r2dbc"
+    const val MYSQL_R2DBC_CONNECTOR = "dev.miku:r2dbc-mysql:0.8.2.RELEASE"
 
     // kotlin
     const val KOTLIN_PLUGIN_SPRING = "org.jetbrains.kotlin.plugin.spring"
